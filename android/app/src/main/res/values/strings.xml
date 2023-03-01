@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pageload2</string>
+    <string name="title_activity_main">pageload2</string>
+    <string name="package_name">pageload2.ionic.io</string>
+    <string name="custom_url_scheme">pageload2.ionic.io</string>
+</resources>
